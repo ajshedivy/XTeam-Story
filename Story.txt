@@ -2,3 +2,6 @@ I started way too late on this. However, after much time to contemplate my
 decision, I came to the realization that all I needed was a little
 motivation. Through hard work and determination, I slowly progressed on my work.
 
+First, I had to make a github repository for my X-Team, which I was able to
+get done pretty quickly. Next, I connected to a Linux terminal and cloned 
+that repository, but then the hard part came. I had to come up with a story.
